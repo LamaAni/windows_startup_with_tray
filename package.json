@@ -1,0 +1,27 @@
+{
+  "name": "windows_startup_with_tray",
+  "version": "0.5.0",
+  "description": "Runs an application (or a command) adds it to the startup menu and ads a windows try icon to control it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LamaAni/windows_startup_with_tray.git"
+  },
+  "keywords": [
+    "windows",
+    "tray",
+    "tray",
+    "icon",
+    "run",
+    "bash"
+  ],
+  "author": "Zav Shotan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LamaAni/windows_startup_with_tray/issues"
+  },
+  "homepage": "https://github.com/LamaAni/windows_startup_with_tray#readme"
+}
