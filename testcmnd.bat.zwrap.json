@@ -1,0 +1,17 @@
+{
+  "iconPath": "C:\\Code\\zav_dev\\windows_startup_with_tray\\default_icons\\page_gear.png",
+  "args": [
+    "-a",
+    "32",
+    "-b=3224",
+    "=caasds",
+    "-23",
+    "asdsd",
+    "asd",
+    "asd",
+    "d",
+    "asd"
+  ],
+  "cmnd": "testcmnd.bat",
+  "startIn": "c:\\Code\\zav_dev\\windows_startup_with_tray"
+}
